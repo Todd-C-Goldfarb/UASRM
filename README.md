@@ -1,10 +1,11 @@
 ## UASRM
 
 Date: 3/15/2024
+
 Contact: tcgoldfarb@gmail.com
 
 The UASRM (Unet Audio Spectrogram Repair Model) is a personal research exercise in utilizing inpainting machine learning
-methods for audio repair by Todd Goldfarb.
+methods for audio repair.
 
 The idea revolves around the concept of treating an audio as an image (spectrogram format), and then using inpainting techniques
 commonly used on standard imaging on the spectrogram.
