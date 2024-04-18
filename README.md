@@ -20,9 +20,7 @@ The preprocessing steps are:
 
 - Raw 2D Array -> Spectro. (STFT), with artificial damaging.
 
-- Spectrogram Values -> Tensors
-
-- Artificial damaging of audio
+- Spectrogram Values -> Tensors (for use with PyTorch)
 
 This whole process is reversed to output to audio.
 
