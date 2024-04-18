@@ -9,6 +9,8 @@ methods for audio repair by Todd Goldfarb.
 The idea revolves around the concept of treating an audio as an image (spectrogram format), and then using inpainting techniques
 commonly used on standard imaging on the spectrogram.
 
+NOTE: The .ipnyb currently fails, as it is up to the user to input a dataset for use. Once a dataset.wav file is provided, the code will run.
+
 ![image](https://github.com/Todd-C-Goldfarb/UASRM/assets/132838573/ff60a346-6170-488b-a6d5-de2a5bc18345)
 
 As a summary, the .ipnyb file contains:
